@@ -1,0 +1,17 @@
+#Write a program to read an integer number from keyboard and find the square of numbe
+
+include<stdio.h>
+
+at main()
+
+int n,s;
+
+printf("Enter an integer number:");
+
+scanf("%d",&n);
+
+s=n*n;
+
+printf("Square of the number is %d",s);
+
+return 0;
